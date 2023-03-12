@@ -44,6 +44,6 @@
   * [8.2 Arrow Function](8.-ecmascript/8.2-arrorw-function.md)
   * [8.3 Spread and Rest Operator](8.-ecmascript/8.3-spread-and-rest-operator.md)
   * [8.4 物件屬性簡寫](8.-ecmascript/8.4-wu-jian-shu-xing-jian-xie.md)
-  * [8.5 解構賦值](8.-ecmascript/8.5-jie-gou-fu-zhi.md)
+  * [8.5 解構賦值](8.-ecmascript/8.5-destructuring-assignment.md)
 * [9. 作業](9.-zuo-ye.md)
 * [10. 參考資料](10.-can-kao-zi-liao.md)
