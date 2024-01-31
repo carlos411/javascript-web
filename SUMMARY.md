@@ -8,7 +8,6 @@
   * [1.4 第一個 JavaScript](1.-jian-jie/1.4-di-yi-ge-javascript.md)
 * [2. JS 在網頁上的基本觀念](2.-ji-ben-guan-nian/README.md)
   * [2.1 套用方式](2.-ji-ben-guan-nian/2.1-tao-yong-fang-shi.md)
-  * [2.2 JS 與頁面的執行順序](2.-ji-ben-guan-nian/2.2-zhi-hang-shun-xu.md)
 * [3. 瀏覽器物件模型 (BOM)](3.-bom-liu-lan-qi-wu-jian-mo-xing/README.md)
   * [3.1 Window](3.-bom-liu-lan-qi-wu-jian-mo-xing/3.1-window.md)
   * [3.2 Location](3.-bom-liu-lan-qi-wu-jian-mo-xing/3.2-location.md)
