@@ -5,7 +5,6 @@
   * [1.1 講者簡介](1.-jian-jie/1.1-jiang-zhe-jian-jie.md)
   * [1.2 課程簡介](1.-jian-jie/1.2-ke-cheng-jian-jie.md)
   * [1.3 開發工具簡介](1.-jian-jie/1.3-kai-fa-gong-ju-jian-jie.md)
-  * [1.4 第一個 JavaScript](1.-jian-jie/1.4-di-yi-ge-javascript.md)
 * [2. JS 在網頁上的基本觀念](2.-ji-ben-guan-nian/README.md)
   * [2.1 變數宣告](2.-ji-ben-guan-nian/2.1-bian-shu-xuan-gao.md)
   * [2.2 資料型態](2.-ji-ben-guan-nian/2.2-zi-liao-xing-tai.md)
